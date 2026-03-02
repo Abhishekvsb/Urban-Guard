@@ -1,0 +1,5 @@
+{
+  "name": "UrbanGuard: City Infrastructure Security",
+  "description": "A secure management system for city infrastructure with role-based access control, real-time monitoring, and comprehensive audit logging.",
+  "requestFramePermissions": []
+}
